@@ -14,13 +14,17 @@
 
   L Может не работать на некоторых аккаунтах, а также закрыт на территории России. Бесплатный период 7 дней.
 
+- [ITP InfoTrackPeople](https://referral.infotrackpeople.org?ref=759cec8d-3c0f-4bbc-9df0-2630c3211d08)
+
+  L Соберет информацию о номере телефона. Платный.
+  
 - Глаз бога
 
   L На данный момент закрыт.
 
 - [UniversalSearch](@UniversalSearchOfBot)
 
-  L Бесплатный ресурс, который соберет информацию о номере через других ботов.
+  L Бесплатный ресурс, который соберет информацию о номере через других ботов. Даст отчет в каких ботах информация на номер есть.
   
 - [Detectiva](@detectiva_renbot)
 
@@ -42,4 +46,39 @@
 
   L Дает при первом заходите тикиты, может сделать бесплатный поиск.
 
+- [HimeraSearch](https://t.me/HimeraSearch_super_bot?start=7663419422)
+
+  L Можно найти информацию о номере. Также заказать другие услуги.
+
+
+# Telegram и Instagram
+
+- [Sherlock](https://t.me/FabricAnalys_bot?start=_ref_u42Yg5_hIEA7J)
+
+  L Бесплатно найдет информацию на instagram и telegram
+
+- [Unamer](https://t.me/unamer_bot?start=ref-lpAmKNJdh0W5ZPrb)
+
+  L Сделает поиск по telegram.
+
+- [Dyxless](https://t.me/Dyxless_OSINTs_Bot?start=7663419422)
+
+  L Платный ,выдаст информацию о телеграмм аккаунте.
+
+- [UserBox](https://t.me/userbox_amiri_bot?start=NzY2MzQxOTQyMg)
+
+  L Платный, выдаст информацию о телеграмм и инстаграмм аккаунте.
+
+- [Vektor](@Ru_VEKTORbot)
+
+  L Даст чаты, номер, айди, но очень редко.
+
+- [UniversalSearch](@UniversalSearchOfBot)
+
+  L Бесплатный ресурс, который соберет информацию в каких ботах можно найти информации о телеграмм и инстаграмм аккаунте.
+
+- [ITP InfoTrackPeople](https://referral.infotrackpeople.org?ref=759cec8d-3c0f-4bbc-9df0-2630c3211d08)
+
+  L Платный, даст информацию о телеграмм аккаунте.
+  
   
