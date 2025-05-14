@@ -115,7 +115,38 @@
 
   L Соберет сообщения, юзернеймы, чаты.
 
-  
+# Документы, ФИО 
+
+- [Sherlock](https://t.me/FabricAnalys_bot?start=_ref_u42Yg5_hIEA7J)
+
+- [LeakOsint](https://t.me/anotherLeakOSINTrobotbot?start=ErwkQTs)
+
+- [ITP InfoTrackPeople](https://referral.infotrackpeople.org?ref=759cec8d-3c0f-4bbc-9df0-2630c3211d08)
+
+- Глаз бога
+
+  L На данный момент закрыт.
+
+- [UniversalSearch](@UniversalSearchOfBot)
+
+- [Vektor](@Ru_VEKTORbot)
+
+- [Dyxless](https://t.me/Dyxless_OSINTs_Bot?start=7663419422)
+
+- [Unamer](https://t.me/unamer_bot?start=ref-lpAmKNJdh0W5ZPrb)
+
+- [HimeraSearch](https://t.me/HimeraSearch_super_bot?start=7663419422)
+
+- [Штрафы и Налоги](@ShtrafKZBot)
+
+
+# Интересные инструменты🔧
+
+|---------------------------------------------------------|
+| [GoogleDorkHelper](https://t.me/testfgcamfbot)          | Облегачает вам гугл доркинг. Полностью бесплатный.                      |
+| [WhoLogger](https://t.me/WhoLoggerBot?start=7996082768) | Может создавать ip логгер в телеграф статье, имеет много других функций.|
+| [Rendy Logger](https://t.me/rendyloggerbot)             | Бесплатная версия WhoLogger                                             |
+| [VkHistory](https://t.me/VKHistoryRobot)                | Даст историю вк                                                         |
 
   
   
