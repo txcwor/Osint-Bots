@@ -22,7 +22,7 @@
 
   L На данный момент закрыт.
 
-- [UniversalSearch](@UniversalSearchOfBot)
+- [UniversalSearch](https://t.me/UniversalSearchWowBot)
 
   L Бесплатный ресурс, который соберет информацию о номере через других ботов. Даст отчет в каких ботах информация на номер есть.
   
